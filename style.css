@@ -46,7 +46,29 @@ a{
     border-radius: 30px;
 
 }
+.About{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.main-about{
+    display: flex;
 
+}
+.main-about1 img{
+    width: 80vh;
+ 
+}
+.about-h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #575757;
 
+}
+.main-about2{
+    margin: auto 7%;
+}
 
 
